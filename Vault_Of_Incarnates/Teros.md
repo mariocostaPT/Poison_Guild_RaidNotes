@@ -30,9 +30,13 @@ SEMPRE PERTO
 ## Resumo
 
 4 COISAS IMPORTANTES
+
 1º TODOS DAO SOAK e saiem logo de lá quando bate
+
 2º Quando estao a dar soak tendem dividirse pela direita e esquerda (os que teem o debuff) sem overlap
+
 3º Tank actual tem de dar aim do laser aos pilares
+
 4º Full energy todos dao bait no boss
 
 Tank swap a cada 2 beams.
